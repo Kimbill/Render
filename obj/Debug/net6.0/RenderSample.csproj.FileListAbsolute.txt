@@ -1,0 +1,70 @@
+C:/Users/hp Envy/Desktop/Sq018/RenderSample/RenderSample/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/hp Envy/Desktop/Sq018/RenderSample/RenderSample/bin/Debug/net6.0/appsettings.json
+C:/Users/hp Envy/Desktop/Sq018/RenderSample/RenderSample/bin/Debug/net6.0/RenderSample.exe
+C:/Users/hp Envy/Desktop/Sq018/RenderSample/RenderSample/bin/Debug/net6.0/RenderSample.deps.json
+C:/Users/hp Envy/Desktop/Sq018/RenderSample/RenderSample/bin/Debug/net6.0/RenderSample.runtimeconfig.json
+C:/Users/hp Envy/Desktop/Sq018/RenderSample/RenderSample/bin/Debug/net6.0/RenderSample.dll
+C:/Users/hp Envy/Desktop/Sq018/RenderSample/RenderSample/bin/Debug/net6.0/RenderSample.pdb
+C:/Users/hp Envy/Desktop/Sq018/RenderSample/RenderSample/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/hp Envy/Desktop/Sq018/RenderSample/RenderSample/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/hp Envy/Desktop/Sq018/RenderSample/RenderSample/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/hp Envy/Desktop/Sq018/RenderSample/RenderSample/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/hp Envy/Desktop/Sq018/RenderSample/RenderSample/obj/Debug/net6.0/RenderSample.csproj.AssemblyReference.cache
+C:/Users/hp Envy/Desktop/Sq018/RenderSample/RenderSample/obj/Debug/net6.0/RenderSample.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/hp Envy/Desktop/Sq018/RenderSample/RenderSample/obj/Debug/net6.0/RenderSample.AssemblyInfoInputs.cache
+C:/Users/hp Envy/Desktop/Sq018/RenderSample/RenderSample/obj/Debug/net6.0/RenderSample.AssemblyInfo.cs
+C:/Users/hp Envy/Desktop/Sq018/RenderSample/RenderSample/obj/Debug/net6.0/RenderSample.csproj.CoreCompileInputs.cache
+C:/Users/hp Envy/Desktop/Sq018/RenderSample/RenderSample/obj/Debug/net6.0/RenderSample.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/hp Envy/Desktop/Sq018/RenderSample/RenderSample/obj/Debug/net6.0/RenderSample.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/hp Envy/Desktop/Sq018/RenderSample/RenderSample/obj/Debug/net6.0/staticwebassets/msbuild.RenderSample.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/hp Envy/Desktop/Sq018/RenderSample/RenderSample/obj/Debug/net6.0/staticwebassets/msbuild.build.RenderSample.props
+C:/Users/hp Envy/Desktop/Sq018/RenderSample/RenderSample/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.RenderSample.props
+C:/Users/hp Envy/Desktop/Sq018/RenderSample/RenderSample/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.RenderSample.props
+C:/Users/hp Envy/Desktop/Sq018/RenderSample/RenderSample/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/hp Envy/Desktop/Sq018/RenderSample/RenderSample/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/hp Envy/Desktop/Sq018/RenderSample/RenderSample/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/hp Envy/Desktop/Sq018/RenderSample/RenderSample/obj/Debug/net6.0/scopedcss/bundle/RenderSample.styles.css
+C:/Users/hp Envy/Desktop/Sq018/RenderSample/RenderSample/obj/Debug/net6.0/RenderSample.csproj.CopyComplete
+C:/Users/hp Envy/Desktop/Sq018/RenderSample/RenderSample/obj/Debug/net6.0/RenderSample.dll
+C:/Users/hp Envy/Desktop/Sq018/RenderSample/RenderSample/obj/Debug/net6.0/refint/RenderSample.dll
+C:/Users/hp Envy/Desktop/Sq018/RenderSample/RenderSample/obj/Debug/net6.0/RenderSample.pdb
+C:/Users/hp Envy/Desktop/Sq018/RenderSample/RenderSample/obj/Debug/net6.0/RenderSample.genruntimeconfig.cache
+C:/Users/hp Envy/Desktop/Sq018/RenderSample/RenderSample/obj/Debug/net6.0/ref/RenderSample.dll
+/Users/macbook/Projects/render-sample/bin/Debug/net6.0/appsettings.Development.json
+/Users/macbook/Projects/render-sample/bin/Debug/net6.0/appsettings.json
+/Users/macbook/Projects/render-sample/bin/Debug/net6.0/RenderSample
+/Users/macbook/Projects/render-sample/bin/Debug/net6.0/RenderSample.deps.json
+/Users/macbook/Projects/render-sample/bin/Debug/net6.0/RenderSample.runtimeconfig.json
+/Users/macbook/Projects/render-sample/bin/Debug/net6.0/RenderSample.dll
+/Users/macbook/Projects/render-sample/bin/Debug/net6.0/RenderSample.pdb
+/Users/macbook/Projects/render-sample/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/macbook/Projects/render-sample/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/macbook/Projects/render-sample/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/macbook/Projects/render-sample/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/macbook/Projects/render-sample/obj/Debug/net6.0/RenderSample.csproj.AssemblyReference.cache
+/Users/macbook/Projects/render-sample/obj/Debug/net6.0/RenderSample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/render-sample/obj/Debug/net6.0/RenderSample.AssemblyInfoInputs.cache
+/Users/macbook/Projects/render-sample/obj/Debug/net6.0/RenderSample.AssemblyInfo.cs
+/Users/macbook/Projects/render-sample/obj/Debug/net6.0/RenderSample.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/render-sample/obj/Debug/net6.0/RenderSample.MvcApplicationPartsAssemblyInfo.cs
+/Users/macbook/Projects/render-sample/obj/Debug/net6.0/RenderSample.MvcApplicationPartsAssemblyInfo.cache
+/Users/macbook/Projects/render-sample/obj/Debug/net6.0/staticwebassets/msbuild.RenderSample.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/macbook/Projects/render-sample/obj/Debug/net6.0/staticwebassets/msbuild.build.RenderSample.props
+/Users/macbook/Projects/render-sample/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.RenderSample.props
+/Users/macbook/Projects/render-sample/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.RenderSample.props
+/Users/macbook/Projects/render-sample/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/macbook/Projects/render-sample/obj/Debug/net6.0/staticwebassets.build.json
+/Users/macbook/Projects/render-sample/obj/Debug/net6.0/staticwebassets.development.json
+/Users/macbook/Projects/render-sample/obj/Debug/net6.0/scopedcss/bundle/RenderSample.styles.css
+/Users/macbook/Projects/render-sample/obj/Debug/net6.0/RenderSample.csproj.CopyComplete
+/Users/macbook/Projects/render-sample/obj/Debug/net6.0/RenderSample.dll
+/Users/macbook/Projects/render-sample/obj/Debug/net6.0/refint/RenderSample.dll
+/Users/macbook/Projects/render-sample/obj/Debug/net6.0/RenderSample.pdb
+/Users/macbook/Projects/render-sample/obj/Debug/net6.0/RenderSample.genruntimeconfig.cache
+/Users/macbook/Projects/render-sample/obj/Debug/net6.0/ref/RenderSample.dll
+/Users/macbook/Projects/render-sample/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/macbook/Projects/render-sample/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/macbook/Projects/render-sample/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/macbook/Projects/render-sample/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/macbook/Projects/render-sample/bin/Debug/net6.0/Npgsql.dll
+/Users/macbook/Projects/render-sample/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
